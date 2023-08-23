@@ -305,7 +305,7 @@ const [totalResults, setTotalResults] = useState(0);
   }, []);
   
 
-
+//
   // const  handleNextClick = async() => {
   //   setPage(page + 1) ;
   //   updateNews();
